@@ -7,9 +7,9 @@ Assignment: Build a Currency Converter in Python You are required to build a sim
 currency converter program. 
 
 Requirements: 
-1. The program must: Accepts users input in Nigerian Naira (NGN) and  
-ASSIGNMENT.mdASSIGNMENT.md
-2. Convert the amount to at least three currencies.For example, USD, EUR, GBP
+1. The program must: Accepts users input in Nigerian Naira (NGN).
+
+2. Convert the amount to at least three currencies.For example, USD, EUR, GBP.
 
 3. You must: Use functions properly Store exchange rates using a dictionary. Use input() to collect user data 
 
