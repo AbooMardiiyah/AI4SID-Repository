@@ -13,7 +13,7 @@ Requirements:
 
 3. You must: Use functions properly Store exchange rates using a dictionary. Use input() to collect user data 
 
-4. Display clearly formatted output 3. Structure your program properly: Create a dictionary to store exchange rates 
+4. Display clearly formatted output .Structure your program properly: Create a dictionary to store exchange rates 
 
 5. Write a reusable conversion function  Ensure your code is clean and well organized
 """
